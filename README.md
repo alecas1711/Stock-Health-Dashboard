@@ -13,11 +13,14 @@ The application delivers four core functionalities:
 1. **Technical Analysis**: Real-time stock data from Yahoo Finance with automated calculation of key indicators including Moving Averages (MA20, MA50, MA200), Relative Strength Index (RSI), and Bollinger Bands. The system provides automated diagnosis based on MA crossovers and RSI thresholds.
 
 2. **Prophet Forecasting**: Time series prediction using Facebook's Prophet model, optimized for financial data with configurable horizons (7-30 days). The forecast includes 80% confidence intervals and is trained on the most recent 180 days of data for memory efficiency.
+<img width="1366" height="598" alt="Captura de pantalla (264)" src="https://github.com/user-attachments/assets/1ce09ad7-87e8-4354-a0eb-7ff3dba5b2f1" />
 
 3. **Portfolio Comparison**: Multi-ticker performance, automatically compared against the S&P 500 index for relative performance evaluation.
+<img width="1366" height="587" alt="Captura de pantalla (265)" src="https://github.com/user-attachments/assets/198986d1-635b-4652-bed6-8a994881d2d1" />
 
 4. **Automated Reporting**: Professional HTML reports with dynamic content generation, including technical interpretations, statistical summaries, volatility analysis, and visual charts—all generated programmatically from R Markdown templates.
-<img width="1366" height="768" alt="Captura de pantalla (264)" src="https://github.com/user-attachments/assets/7bd2b60b-c850-4437-ab7c-c6b87f5616c6" />
+<img width="1366" height="569" alt="Captura de pantalla (268)" src="https://github.com/user-attachments/assets/c49901c8-5484-4209-8895-4d68a6e4af3e" />
+
 
 
 ### Why It Was Built
